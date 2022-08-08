@@ -1,0 +1,15 @@
+body {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #000;
+}
+
+#canvas {
+  width: 100vmin;
+  height: 100vmin;
+  vertical-align: middle;
+  image-rendering: pixelated;
+  cursor: pointer;
+}
